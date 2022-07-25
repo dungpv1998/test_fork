@@ -1,3 +1,3 @@
 const a = 00000000000
-
-const b = 1111111
+const c = "zzzzzzzzz"
+const e = 1111111
